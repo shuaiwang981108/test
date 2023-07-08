@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-US
-title: A Hugo website
+title: Shuai Wang
 theme: hugo-ivy
 googleAnalytics: ''
 disqusShortname: ''
@@ -12,16 +12,16 @@ permalinks:
   post: /:year/:month/:day/:slug/
 menu:
   main:
-    - name: About
+    - name: Home
       url: /about/
-    - name: GitHub
+    - name: Publications
       url: https://github.com/rstudio/blogdown
-    - name: Twitter
+    - name: Expericences
       url: https://twitter.com/rstudio
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
-  description: A website built through Hugo and blogdown.
+  description: Make a better world for humankind.
   favicon: favicon.ico
   highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
   highlightjsLang:
